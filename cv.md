@@ -3,12 +3,12 @@
 * **Current Location:** Antalya, Turkey;
 * **Phone number(Russia):** +7 915 201 61 36;
 * **Phone number(Turkey):** +90 535 770 30 75;
-* **Email:** a.popov.web@gmail.com
+* **Email:** a.popov.web@gmail.com;
 * **Linkedin:** [alexander-popov-web](https://www.linkedin.com/in/alexander-popov-web/);
-* **Telegram:** [@Mace5ta](https://t.me/Mace5ta);
+* **Telegram:** [@Mace5ta](https://t.me/Mace5ta).
 
 ## About me
-Hello! I am a Frontend Developer with 3+ years of experience in Web Development.
+Hello! I'm a Frontend Developer with 3+ years of experience in Web Development.
 
 *My responsibilities on projects:*
 * Writing performant, readable, maintainable and testable code in React (Typescript);
@@ -17,7 +17,7 @@ Hello! I am a Frontend Developer with 3+ years of experience in Web Development.
 * Improving front-end performance;
 *  Learning new libraries and technologies if required by the product.
 
-I am open to offers of employment :)
+I'm open to offers of employment :)
 
 ## Skills
 * React / Redux / Semantic HTML5 / CSS;
