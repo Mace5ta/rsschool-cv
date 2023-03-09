@@ -1,1 +1,1 @@
-https://mace5ta.github.io/rsschool-cv/cv
+https://mace5ta.github.io/rsschool-cv/
