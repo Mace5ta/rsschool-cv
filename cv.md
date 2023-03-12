@@ -56,5 +56,5 @@ const solution = string => string.split(/(?=[A-Z])/).join(' ');
   * [Result.school](https://result.school/), Junior Frontend Developer.
 
 ## Languages
-* English - A2. I'm learning English twice a week with the teacher on [Skyeng](https://skyeng.ru);
+* English - B1. I'm learning English twice a week with the teacher on [Skyeng](https://skyeng.ru);
 * Russian - Native speaker.
