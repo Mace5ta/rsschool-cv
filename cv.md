@@ -1,8 +1,5 @@
 # ***Alexander Popov***
 ## Contacts
-* **Current Location:** Antalya, Turkey;
-* **Phone number(Russia):** +7 915 201 61 36;
-* **Phone number(Turkey):** +90 535 770 30 75;
 * **Email:** a.popov.web@gmail.com;
 * **Linkedin:** [alexander-popov-web](https://www.linkedin.com/in/alexander-popov-web/);
 * **Telegram:** [@Mace5ta](https://t.me/Mace5ta).
